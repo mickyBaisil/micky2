@@ -14,6 +14,15 @@ public class Factorial
 	}
 }
 
+
+#feature 302 changes by developer 2
+
+public static void addOneError(int[] list)
+	{	for(int val : list)
+		{	val = val + 1;
+		}
+	}
+
 #feature 301 chanfges by developer 1
 
 * CallingMethodsInSameClass.java
@@ -39,3 +48,4 @@ public class CallingMethodsInSameClass
 		printOne();
 	}
 }
+
