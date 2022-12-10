@@ -13,3 +13,11 @@ public class Factorial
 		return result;
 	}
 }
+
+#feature 302 changes by developer 2
+
+public static void addOneError(int[] list)
+	{	for(int val : list)
+		{	val = val + 1;
+		}
+	}
